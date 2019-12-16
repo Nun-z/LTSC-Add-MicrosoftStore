@@ -1,4 +1,4 @@
-I want to make absolutely clear that this project was created by kkkgo. I have simple made some very minor changes for compatability with Windows Server 2019.
+I want to make absolutely clear that this project was created by kkkgo. I have simply made some very minor changes for compatability with Windows Server 2019.
 
 # Add Store to Windows 10 Enterprise LTSC  
 For Windows 10 Enterprise LTSC 2019   
